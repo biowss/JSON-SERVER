@@ -1,0 +1,14 @@
+{
+  "name": "taxas",
+  "version": "1.0.0",
+  "description": "Fake REST API para teste de Taxas",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server localDB.json -w -p 4000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
