@@ -2,6 +2,9 @@ Descrição:
 
     Fake JSON local server para execução de testes com aplicação de emprestimos a clientes.
     
+    Informações dos clientes e tabela de taxas contidas no arquivo:
+        localDB.json
+    
 
 Dependencias:
 
